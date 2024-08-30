@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "python3",
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.linting.pylintArgs": [
+        "--disable=C0111"  # Disable missing docstring warning
+    ]
+}
